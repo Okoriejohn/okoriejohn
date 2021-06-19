@@ -5,7 +5,7 @@
 ### I'm a Brother, Son, Developer, and Friend!
 
 - 🔭 I'm currently working on building my Tech stack and improving my skillset
-- 🌱 I’m currently learning JavaScript and building my portfolio site �
+- 🌱 I’m currently learning JavaScript and building my portfolio site 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Become a competent developer and contribute to Open Source projects
 - ⚡ Fun fact: I love playing Football and Table tennis
