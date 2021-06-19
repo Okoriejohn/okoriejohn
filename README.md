@@ -1,8 +1,8 @@
-### Hi there, I'm John! 👋
+## Hi there, I'm John! 👋
 
 
 
-## I'm a Brother, Son, Developer, and Friend!
+### I'm a Brother, Son, Developer, and Friend!
 
 - 🔭 I'm currently working on building my Tech stack and improving my skillset
 - 🌱 I’m currently learning JavaScript and building my portfolio site 🤣
@@ -13,14 +13,10 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="John Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="John Spotify Playing" width="350" />](https://open.spotify.com/user/60b1urgqpeb54zzyujvk0cnky)
 
 ### Get in touch with me:
 
-[<img align="left" alt="okoriejohn" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="okoriejohn" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="okoriejohn" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="okoriejohn" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -41,22 +37,16 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
+<hr />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Okoriejohn&show_icons=true&theme=dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Okoriejohn&show_icons=true&theme=dark&repo=github-readme-stats)](https://github.com/Okoriejohn/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okoriejohn&show_icons=true&theme=dark&layout=compact)](https://github.com/Okoriejohn/github-readme-stats)
+
 <br />
 
----
-
-<a href="https://github.com/okoriejohn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app" alt="John's github stats" />
-</a>
-<a href="https://github.com/okoriejohn/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app" />
-</a>
-
-<a href="https://github.com/okoriejohn/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app" />
-</a>   
 
 ---
 
